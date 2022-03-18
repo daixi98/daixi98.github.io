@@ -1,3 +1,18 @@
+---
+title: "Markdown Common Elements"
+layout: post
+date: 2022-03-24 22:44
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- elements
+  star: true
+  category: blog
+  author: xiaopeng
+  description: Markdown summary with different options
+---
+
 # FFS
 
 1. **Disk structures**: cylinders, tracks, etc.  

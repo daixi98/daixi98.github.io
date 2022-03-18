@@ -10,6 +10,7 @@ tag:
 - extra
 category: blog
 author: jamesfoster
+hidden: true # don't count this post in blog pagination
 description: Markdown summary with different options
 ---
 
