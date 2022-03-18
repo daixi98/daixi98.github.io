@@ -6,9 +6,9 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - FFS
-  category: blog
-  author: xiaopeng
-  description: FFS
+category: blog
+author: xiaopeng
+description: FFS
 ---
 
 
