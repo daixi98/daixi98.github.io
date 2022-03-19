@@ -8,10 +8,10 @@ tag:
 - markdown
 - components
 - extra
-  category: blog
-  author: Xiaopeng
-  hidden: false #don't count this post in blog pagination
-  description: LFS
+category: blog
+author: Xiaopeng
+hidden: false #don't count this post in blog pagination
+description: Exokernel
 ---
 
 
