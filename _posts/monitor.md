@@ -1,3 +1,20 @@
+---
+title: "Monitors"
+layout: post
+date: 2022-02-24 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+  category: blog
+  author: Xiaopeng
+  hidden: false #don't count this post in blog pagination
+  description: Monitors
+---
+
+
 #Monitors
 
 **Differences between Hoare monitor and Mesa monitor:**
@@ -5,4 +22,4 @@ In Hoare’s monitor, the signaler signals a waiter, and does context switch to 
 
 Hoare vs Mesa vs Java:
 
-![img.png](img.png)
+![img.png](../assets/images/img.png)

@@ -1,3 +1,20 @@
+---
+title: "VAX/VMS"
+layout: post
+date: 2022-02-24 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+  category: blog
+  author: Xiaopeng
+  hidden: false #don't count this post in blog pagination
+  description: VAX/VMS
+---
+
+
 # VAX/VMS*
 ## Segmented FIFO:
 Without a reference bit in its page table entry, it is hard for VAX to use LRU algorithm directly for page replacement. So, it chooses a FIFO algorithm with two second-chance lists.   

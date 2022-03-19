@@ -1,3 +1,20 @@
+---
+title: "Mach"
+layout: post
+date: 2022-02-24 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+  category: blog
+  author: Xiaopeng
+  hidden: false #don't count this post in blog pagination
+  description: Mach
+---
+
+
 # Mach
 ## Micro-kernel
 Mach 3.0 was technically a µKernel, but prior versions were not since the BSD server was also in the kernel. Mac OS X is based on Mach 3.0, but they’ve also put pretty much everything back in the kernel. 
@@ -28,9 +45,9 @@ Main idea: separates virtual address space management from physical memory manag
 • **The pmap**: the machine-dependent structure  
 
 ## COW:
- ![COW](cow1.png)  
- ![COW2](cow2.png)
+ ![COW](../assets/images/cow1.png)  
+ ![COW2](../assets/images/cow2.png)
  
 ## Mach VM Structure:
-![VM](mach.png)
+![VM](../assets/images/mach.png)
 
