@@ -40,8 +40,12 @@ linkedin: xiaopeng-dai
 github: daixi98
 email: daixiaopeng98@gmail.com
 
-authors:
-
+uthors:
+  Xiaopeng:
+    name: Xiaopeng Dai
+    bio: A UC San Diego graduate student
+    external-image: false
+    picture: assets/images/profile.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -76,7 +80,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
