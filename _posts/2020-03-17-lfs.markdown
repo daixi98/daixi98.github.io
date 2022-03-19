@@ -1,16 +1,17 @@
 ---
 title: "LFS"
 layout: post
-date: 2022-03-24 22:44
+date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- OS
-- elements
-star: true
-category: blog
-author: Xiaopeng
-description: LFS
+- markdown
+- components
+- extra
+  category: blog
+  author: jamesfoster
+  hidden: false #don't count this post in blog pagination
+  description: Markdown summary with different options
 ---
 
 
