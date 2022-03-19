@@ -5,9 +5,8 @@ date: 2022-02-23
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- operating systems
+- file system
 category: blog
 author: Xiaopeng
 hidden: false #don't count this post in blog pagination
