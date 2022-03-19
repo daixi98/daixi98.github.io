@@ -1,7 +1,7 @@
 ---
 title: "Exokernel"
 layout: post
-date: 2022-02-24 22:48
+date: 2022-02-08
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
