@@ -1,3 +1,21 @@
+---
+title: "Exokernel"
+layout: post
+date: 2022-02-24 22:48
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+  category: blog
+  author: Xiaopeng
+  hidden: false #don't count this post in blog pagination
+  description: LFS
+---
+
+
+
 # Exokernel  
 
 **Goals**: Push everything to user level and expose the hardware, in order to maximize the performance. The operating system will be linked to the applications as a library.  
