@@ -1,5 +1,5 @@
 ---
-title: "FFS"
+title: "Fast File System"
 layout: post
 date: 2022-02-23
 image: /assets/images/markdown.jpg
@@ -13,7 +13,7 @@ hidden: false #don't count this post in blog pagination
 description: FFS
 ---
 
-# FFS
+# Fast File System (FFS)
 
 1. **Disk structures**: cylinders, tracks, etc.
 

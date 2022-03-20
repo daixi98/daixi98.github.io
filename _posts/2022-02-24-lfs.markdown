@@ -1,5 +1,5 @@
 ---
-title: "LFS"
+title: "Log-Structured File System"
 layout: post
 date: 2022-02-24
 image: /assets/images/markdown.jpg
@@ -13,7 +13,7 @@ hidden: false #don't count this post in blog pagination
 description: LFS
 ---
 
-# LFS
+# Log-Structured File System (LFS)
 
 1. ### Trend for hardware.  
    Disk: seek is slow, but higher transfer speed and higher capacity.  
